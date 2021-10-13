@@ -16,6 +16,7 @@ public class Games {
     private String name;
     private String description;
 
+
     ////Hacer los gets y Sets de todos 
     ///idGames
     public Integer getIdGames()
