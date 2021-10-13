@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Reto3SqlApplication<reto3_sql>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.reto3_sql.reto3_sql.Reto3SqlApplication",
+            "projectName": "reto3_sql",
+            "args": ""
+        }
+    ]
+}
